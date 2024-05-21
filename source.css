@@ -10,15 +10,15 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
 */
 :root {
   /*Global variables that were made/edited by me*/
-  --Main-Color: rgb(147, 60, 213); /*main master color*/
-  --Secondary-Color: rgb(150, 73, 207); /*secondary color*/
+  --Main-Color: rgb(159, 115, 254); /*main master color*/
+  --Secondary-Color: rgb(125, 79, 222); /*secondary color*/
   --Third-Color: rgb(67, 8, 93); /*third color*/
   --Color-4: rgb(90,0,158); /*color number 4*/
   --Color-5: hsla(320, 40%, 40%, 0.366); /*color number 5*/
   --Color-6: hsla(320, 50%, 50%, 0.466); /*color number 6*/
   --Grey-Color: rgb(31, 31, 31); /*grey color*/
   --Black: rgb(0,0,0); /*black color*/
-  --White: rgb(255,255,255); /*white color*/
+  --White: rgb(190, 169, 238); /*white color*/
   --White-Second: rgb(175, 175, 175); /*white but gray color*/
   --Red-color: rgb(255,0,0); /*red color*/
   --Neon-Line: 150,0,150; /*master neon color*/
